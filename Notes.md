@@ -1,9 +1,9 @@
 # Notes on implementation of features
 
 
-### Code to enable showing file extensions in Windows Explorer
+### Code to enable showing file extensions in Windows Explorer (C#)
 
-``` 
+``` csharp
 using Microsoft.Win32;
 namespace ShowHideExtensions
 {
